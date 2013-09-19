@@ -1,7 +1,7 @@
 # Chef::Edit
 
 This adds a simple function to the Chef library scope to
-edit and existing resource. If the given resource does not exist, 
+edit an existing resource. If the given resource does not exist, 
 a new resource will be created.
 
 This function is designed to assist the library cookbook pattern.
